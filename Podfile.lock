@@ -1,0 +1,16 @@
+PODS:
+  - Blueprints (0.8.0)
+
+DEPENDENCIES:
+  - Blueprints (~> 0.8.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Blueprints
+
+SPEC CHECKSUMS:
+  Blueprints: bd8e23ee3b1ee9faa751ddb6e9cd82fef862ce9a
+
+PODFILE CHECKSUM: 6683868e3363aa12c827ab9fb788ffd65952636e
+
+COCOAPODS: 1.6.0.beta.1
